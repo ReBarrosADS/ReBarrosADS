@@ -10,4 +10,6 @@ Conhecendo a linguagem Python com Prof. Lucas Santos.
 
 ## Objetivos
 
-Domininar a linguagem Python!!! 
+Compreender e dominar a linguagem Python!!!
+
+
